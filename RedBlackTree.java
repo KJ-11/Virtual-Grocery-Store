@@ -1,6 +1,5 @@
 // --== CS400 Fall 2022 File Header Information ==--
 // Name: <Kshitij Jhunjhunwala>
-// Email: <kjhunjhunwa2@wisc.edu>
 // Team: <AT>
 // TA: <Minghao>
 // Lecturer: <Gary Dahl>

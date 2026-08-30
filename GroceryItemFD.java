@@ -1,7 +1,5 @@
 // --== CS400 Project Two File Header ==--
 // Name: Henry Burke
-// CSL Username: hburke
-// Email: hpburke@wisc.edu
 // Lecture #: 001 @11:00am
 // Notes to Grader: hopefully this cart doesn't have squeaky wheels
 

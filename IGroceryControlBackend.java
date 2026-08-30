@@ -1,7 +1,5 @@
 // --== CS400 Project Two File Header ==--
 // Name: Michael Deng
-// CSL Username: mdeng
-// Email: madeng@wisc.edu
 // Lecture #: 001 @11:00am
 // Notes to Grader: <any optional extra notes to your grader>
 
